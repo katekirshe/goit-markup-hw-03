@@ -197,7 +197,6 @@ margin: 0 auto;
 
 .features-list {
     display: flex;
-    padding: 120px 0;
     gap: 24px;
 }
 
